@@ -1,0 +1,25 @@
+<div class="contact-container container-block">
+  <ul class="list-unstyled contact-list">
+    {% if sidebar.email %} 
+    <a href="mailto:{{ sidebar.email }}">
+      <i class="fas fa-envelope"></i>
+    </a>
+    {% endif %}
+    {% if sidebar.linkedin %}
+    <a href="{{ sidebar.linkedin }}" target="_blank">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    {% endif %}
+    {% if sidebar.google-scholar %}
+    <a href="{{ sidebar.google-scholar }}" target="_blank">
+      <i class="ai ai-google-scholar"></i>
+    </a>
+    {% endif %}
+    {% if sidebar.cv %}
+    <a href="{{ sidebar.cv }}" target="_blank">
+      <i class="ai ai-cv"></i>
+    </a>
+    {% endif %}
+    
+  </ul>
+</div><!--//contact-container-->
