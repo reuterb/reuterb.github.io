@@ -4,59 +4,59 @@
 
 sidebar:
     # Profile information
-    name: Teresa Portone
-    position: Staff Research Scientist 
-    company: Sandia National Labs
-    avatar: headshot.jpg  #place a min 150x150 picture inside /assets/images/ folder and provide the name of the file below
+    name: Bryan Reuter
+    position: Postdoctoral Appointee 
+    company: Sandia National Laboratories
+    #avatar: headshot.jpg  #place a min 150x150 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tporton@sandia.gov
-    linkedin: https://www.linkedin.com/in/teresa-portone/
-    google-scholar: https://scholar.google.com/citations?user=xVbL1uwAAAAJ&hl=en&oi=ao
-    cv: assets/cv/portone_cv.pdf
+    email: bwreute@sandia.gov
+    linkedin: https://www.linkedin.com/in/bryan-reuter/
+    #google-scholar: https://scholar.google.com/citations?user=xVbL1uwAAAAJ&hl=en&oi=ao
+    #cv: assets/cv/portone_cv.pdf
     # Add back in other sidebar links -- see contact.html in _includes
 
-career-profile:
-    title: About Me
-    details: |
-      I am a staff research scientist in the Optimization and Uncertainty Quantification department at Sandia National Laboratories. Prior to my current position at Sandia, I was a PhD Student in the [Computational Science, Engineering and Mathematics PhD Program](https://www.oden.utexas.edu/graduate-studies/), housed in the [Oden Institute for Computational Engineering and Sciences at UT Austin](https://www.oden.utexas.edu/). My research interests include:
-        - model-form uncertainty quantification
-        - validation and reliability of computational models used for prediction
-        - developing and deploying advanced UQ methods for practical problems in science and engineering  
-      
-        I am an avid cook, choral singer, and photographer. 
-publications:
-  title: Recent Publications
-  papers:
-  - title: Bayesian model selection for metal yield models in high-velocity impact
-    authors: Teresa Portone, John Niederhaus, Jason Sanchez, and Laura Swiler
-    journal: International Journal of Impact Engineering 
-    year: 2020
-    link: "https://doi.org/10.1016/j.ijimpeng.2019.103459"
-  - title: Bayesian inference of an uncertain generalized diffusion operator
-    authors: Teresa Portone, Robert D. Moser
-    journal: SIAM/ASA Journal on Uncertainty Quantification 
-    year: 2022
-    link: "https://doi.org/10.1137/21M141659X"
+#career-profile:
+#    title: About Me
+#    details: |
+#      I am a staff research scientist in the Optimization and Uncertainty Quantification department at Sandia National Laboratories. Prior to my current position at Sandia, I was a PhD Student in the [Computational Science, Engineering and Mathematics PhD Program](https://www.oden.utexas.edu/graduate-studies/), housed in the [Oden Institute for Computational Engineering and Sciences at UT Austin](https://www.oden.utexas.edu/). My research interests include:
+#        - model-form uncertainty quantification
+#        - validation and reliability of computational models used for prediction
+#        - developing and deploying advanced UQ methods for practical problems in science and engineering  
+#      
+#        I am an avid cook, choral singer, and photographer. 
+#publications:
+#  title: Recent Publications
+#  papers:
+#  - title: Bayesian model selection for metal yield models in high-velocity impact
+#    authors: Teresa Portone, John Niederhaus, Jason Sanchez, and Laura Swiler
+#    journal: International Journal of Impact Engineering 
+#    year: 2020
+#    link: "https://doi.org/10.1016/j.ijimpeng.2019.103459"
+#  - title: Bayesian inference of an uncertain generalized diffusion operator
+#    authors: Teresa Portone, Robert D. Moser
+#    journal: SIAM/ASA Journal on Uncertainty Quantification 
+#    year: 2022
+#    link: "https://doi.org/10.1137/21M141659X"
     #preprints:
     #- title: Bayesian inference of an uncertain generalized diffusion operator
     #  authors: Teresa Portone, Robert D. Moser
     #  year: 2021
     #  link: "https://arxiv.org/abs/2105.01807"
-  other:
-  - title: Representing Model-Form Uncertainty from Missing Microstructural Information
-    authors: Teresa Portone
-    type: Dissertation
-    year: 2019
-    link: "http://dx.doi.org/10.26153/tsw/10112"
-presentations:
-  title: Recent Presentations
-  conference-talks:
-  - title: Learning Missing Mechanisms in a Dynamical System from a Subset of State Variable Observations 
-    authors: T. Portone, E. Acquesta, R. Dandekar, C. Rackauckas 
-    conference: USNCCM16, Virtual, 2021
-    link: "assets/presentations/UDE_data_requirements_portone.pdf"
-  - title: Application of Multifidelity Uncertainty Quantification Methods to a Subsurface Transport Model 
-    authors: T. Portone, M.S. Eldred, G. Geraci, L.P. Swiler
-    conference: SIAM CSE21, Virtual, March 2021
-    link: "assets/presentations/portone_cse21.pdf"
+#  other:
+#  - title: Representing Model-Form Uncertainty from Missing Microstructural Information
+#    authors: Teresa Portone
+#    type: Dissertation
+#    year: 2019
+#    link: "http://dx.doi.org/10.26153/tsw/10112"
+#presentations:
+#  title: Recent Presentations
+#  conference-talks:
+#  - title: Learning Missing Mechanisms in a Dynamical System from a Subset of State Variable Observations 
+#    authors: T. Portone, E. Acquesta, R. Dandekar, C. Rackauckas 
+#    conference: USNCCM16, Virtual, 2021
+#    link: "assets/presentations/UDE_data_requirements_portone.pdf"
+#  - title: Application of Multifidelity Uncertainty Quantification Methods to a Subsurface Transport Model 
+#    authors: T. Portone, M.S. Eldred, G. Geraci, L.P. Swiler
+#    conference: SIAM CSE21, Virtual, March 2021
+#    link: "assets/presentations/portone_cse21.pdf"
